@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👴 Pronouns: he/him/his
 
-- ⚡ Fun fact: 'Finnoybu' is the nickname given to my fourth great grandfather during his time in the Norwegian merchant marine.  I adopted the name when his memoirs were passed to me circa 1999, after I was reunited with my birth mother and family, more than 30 years after I had myself been adopted.
+- ⚡ Fun fact: 'Finnoybu' is the nickname given to my great-great grandfather during his time in the Norwegian merchant marine.  I adopted the name when his memoirs were passed to me circa 1999, after I was reunited with my birth mother and family, more than 30 years after I had myself been adopted.
 
 ***
 
