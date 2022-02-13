@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on setting up my github repositories.
 - 🌱 I’m currently learning python, markdown (for use with mdwiki and/or jekyll) & a little javascript
 
-[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu)](https://github.com/anuraghazra/github-readme-stats)
+[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
