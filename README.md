@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 
 ***
 
-[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&custom_title=Finnoybu's GitHub Stats - Current&count_private=true&show_icons=true&line_height=36)](https://github.com/finnoybu)
-[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&custom_title=Finnoybu's GitHub Stats - Historical&include_all_commits=true&count_private=true&show_icons=true&line_height=36)](https://github.com/finnoybu)
-
-Statistics cards from [anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&count_private=true&show_icons=true)](https://github.com/finnoybu)
+[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/finnoybu)
