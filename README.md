@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 </td><td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finnoybu&repo=dfir)](https://github.com/finnoybu/dfir)
-</td></tr><tr><td colspan="3" align="center">
+</td></tr></table>
 
 Statistics cards from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-</td></tr></table>
