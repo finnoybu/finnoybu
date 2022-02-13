@@ -28,13 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 'Finnoybu' is the nickname given to my fourth great grandfather during his time in the Norwegian merchant marine.  I adopted the name when his memoirs were passed to me circa 1999, after I was reunited with my birth mother and family, more than 30 years after I had myself been adopted.
 
 ***
-<table border='0' style='border-collapse:collapse'><tr><td align="center">
 
 [![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&custom_title=Finnoybu's GitHub Stats - Current&count_private=true&show_icons=true&line_height=36)](https://github.com/finnoybu)
-</td><td align="center">
-
 [![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&custom_title=Finnoybu's GitHub Stats - Historical&include_all_commits=true&count_private=true&show_icons=true&line_height=36)](https://github.com/finnoybu)
-</td></tr><tr><td colspan="2" align="center">
 
 Statistics cards from [anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-</td></tr></table>
