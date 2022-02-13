@@ -27,16 +27,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: 'Finnoybu' is the nickname given to my fourth great grandfather during his time in the Norwegian merchant marine.  I adopted the name when his memoirs were passed to me circa 1999, after I was reunited with my birth mother and family, more than 30 years after I had myself been adopted.
 
-<table background-color="#FFF"><tr><td rowspan="2">
-
-![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&include_all_commits=true&show_icons=true&line_height=36)</td><td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finnoybu&repo=finnoybu)](https://github.com/finnoybu/finnoybu)</td><td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finnoybu&repo=finnoybu.github.io)](https://github.com/finnoybu/finnoybu.github.io)</td></tr><tr><td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finnoybu&repo=memoirs)](https://github.com/finnoybu/memoirs)</td><td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finnoybu&repo=dfir)](https://github.com/finnoybu/dfir)</td></tr><tr><td colspan="3" align="center">
-
-Statistics cards from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</td></tr></table>
+![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&include_all_commits=true&show_icons=true&line_height=36)
