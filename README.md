@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on setting up my github repositories, my github page (powered by [mdwiki](mdwiki.info) which, sadly, isn't being maintained, and converting my ancestor's memoirs to markdown so I can publish them on the web.
+- 🔭 I’m currently working on setting up my github repositories, my github page (powered by [mdwiki](mdwiki.info) which, sadly, isn't being maintained, and converting my ancestor's memoirs to markdown so I can [publish them on the web](memoirs.finnoybu.com)
 
 - 🌱 I’m currently learning python, markdown, a bit of javascript and... only if I have to... jquery.  But that's a story for another day.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [finnoybu@gmail.com](mailto:finnoyb@gmail.com?subject=A note from a GitHub user)
 
-- 👴 Pronouns: he/him/his
+- ⚪ Pronouns: he/him/his
 
 - ⚡ Fun fact: 'Finnoybu' is the nickname given to my great-great grandfather during his time in the Norwegian merchant marine.  I adopted the name when his memoirs were passed to me circa 1999, after I was reunited with my birth mother and family, more than 30 years after I had myself been adopted.
 
