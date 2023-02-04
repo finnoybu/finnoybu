@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 ***
 
 [![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&count_private=true&show_icons=true)](https://github.com/finnoybu)
-[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/finnoybu)
