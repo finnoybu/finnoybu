@@ -1,5 +1,5 @@
-# Hi there, I'm Ken Tannenbaum!
-I’m a Quality Assurance (QA) engineer with a growing interest in full-stack development. Currently learning Python, JavaScript, and exploring Astro for dynamic websites. I’m passionate about problem-solving, cybersecurity (especially DFIR), and web development.
+# Code. Break. Fix. Repeat.
+Hi, I'm Ken Tannenbaum - a Quality Assurance (QA) engineer with a growing interest in full-stack development. Currently learning Python, JavaScript, and exploring Astro for dynamic websites. I’m passionate about problem-solving, cybersecurity (especially DFIR), and web development.
 
 ## About Me
 I enjoy finding and solving problems through code, and am actively learning new technologies and expanding my skills in frontend and backend development.
