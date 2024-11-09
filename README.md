@@ -1,32 +1,23 @@
-### Hi there! 👋  I'm Finn. 😃
+# Hi there, I'm Ken Tannenbaum!
+I’m a Quality Assurance (QA) engineer with a growing interest in full-stack development. Currently learning Python, JavaScript, and exploring Astro for dynamic websites. I’m passionate about problem-solving, cybersecurity (especially DFIR), and web development.
 
-<!--
-**finnoybu/finnoybu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I enjoy finding and solving problems through code, and am actively learning new technologies and expanding my skills in frontend and backend development.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- **Languages**: Python, JavaScript, C++, HTML, CSS  
+- **Frameworks**: Astro, Django, React, Flask
+- **Cybersecurity**: Digital forensics (DFIR)  
+- **Web Development**: Building dynamic websites and applications
 
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😃 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Currently working on a project to digitize my [great-grandfather’s memoirs](https://github.com/Finnoybu/memoirs) and improve my web development skills.
 
-- 🔭 I’m currently working on setting up my github repositories, my github page (powered by [mdwiki](mdwiki.info) which, sadly, isn't being maintained, and converting my ancestor's memoirs to markdown so I can [publish them on the web](memoirs.finnoybu.com)
+## Learning & Growth
+Currently focusing on Astro, frontend, and full-stack development. I’m also working on a web-based digital forensics site and a personal blog/projects site to share my learning journey.
 
-- 🌱 I’m currently learning python, markdown, a bit of javascript and... only if I have to... jquery.  But that's a story for another day.
+## Contact & Collaboration
+Feel free to reach out to me at [finnoybu@gmail.com](mailto:finnoybu@gmail.com). I’m open to collaborations on open-source projects, startup initiatives, or team-based work.
 
-- 🤔 I’m looking for help with pretty much everything.  I'm a late bloomer when it comes to coding, but have an insatiable thirst for learning.  I'm always looking for feedback, constructive criticism and any tips on how to improve my work.
-
-- 📫 How to reach me: [finnoybu@gmail.com](mailto:finnoyb@gmail.com?subject=A note from a GitHub user)
-
-- ⚪ Pronouns: he/him/his
-
-- ⚡ Fun fact: 'Finnoybu' is the nickname given to my great-great grandfather during his time in the Norwegian merchant marine.  I adopted the name when his memoirs were passed to me circa 1999, after I was reunited with my birth mother and family, more than 30 years after I had myself been adopted.
-
-***
-
-[![Finnoybus's github stats](https://github-readme-stats.vercel.app/api?username=finnoybu&count_private=true&show_icons=true)](https://github.com/finnoybu)
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finnoybu&count_private=true&show_icons=true)](https://github.com/finnoybu)
