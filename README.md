@@ -1,4 +1,5 @@
 # Code. Break. Fix. Repeat.
+<img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/gh-profile-header.png" alt="Banner image: Ken Tannenbaum - finding bugs is my specialty. i'm pretty good at writing them, too.">
 Hi, I'm Ken Tannenbaum - a Quality Assurance (QA) engineer with a growing interest in full-stack development. Currently learning Python, JavaScript, and exploring Astro for dynamic websites. I’m passionate about problem-solving, cybersecurity (especially DFIR), and web development.
 
 ## About Me
