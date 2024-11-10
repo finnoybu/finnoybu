@@ -44,7 +44,3 @@ I’m always up for a conversation, collaboration, or open-source project! Reach
 ## **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finnoybu&count_private=true&show_icons=true)
-
-- <i class="fas fa-check"></i> Finished Items
-- <i class="fas fa-times"></i> Unfinished Items
-- <i class="fas fa-inbox"></i> Unassigned Items
