@@ -37,7 +37,7 @@ Right now, I’m diving deep into **Astro** and **full-stack web development**. 
 
 ## <img src="./svg/handshake.svg" width="16" height="16" /> **Let’s Connect!**
 
-I’m always up for a conversation, collaboration, or open-source project! Reach out via [finnoybu@gmail.com](mailto:finnoybu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ken-tannenbaum).
+I’m always up for a conversation, collaboration, or open-source project! Reach out via [finnoybu@gmail.com](mailto:finnoybu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ktannenbaum).
 
 ---
 
