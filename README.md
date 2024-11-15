@@ -6,7 +6,7 @@ Hi! I'm Ken, a Quality Assurance (QA) engineer with a growing passion for full-s
 
 ---
 
-## <img src="./svg/user.svg" width="16" height="16" /> **About Me**
+## <img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/svg/user.svg" width="16" height="16" /> **About Me**
 
 I’m a problem-solver at heart, with a strong background in **Quality Assurance** and a budding interest in **web development**. I’m on a mission to learn, grow, and share. Whether it’s finding bugs, optimizing code, or building web apps, I thrive on tackling new problems. Currently, I’m learning the ropes of **full-stack development**, building dynamic sites, and exploring **cybersecurity**.
 
