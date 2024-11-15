@@ -12,7 +12,7 @@ I’m a problem-solver at heart, with a strong background in **Quality Assurance
 
 ---
 
-## <img src="./svg/code.svg" width="16" height="16" /> **Skills & Technologies**
+## <img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/svg/code.svg" width="16" height="16" /> **Skills & Technologies**
 
 - **Languages**: Python, JavaScript, C++, HTML, CSS
 - **Frameworks**: Astro, Django, React, Flask
@@ -20,7 +20,7 @@ I’m a problem-solver at heart, with a strong background in **Quality Assurance
 - **Web Development**: Frontend & Backend, REST APIs, Static & Dynamic Websites
 
 ---
-## <img src="./svg/gear.svg" width="16" height="16" /> **Current Projects**
+## <img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/svg/gear.svg" width="16" height="16" /> **Current Projects**
 
 - **[Web Book](https://github.com/Finnoybu/memoirs)**: Preserving and sharing my great-grandfather’s memoirs, to honor his story and our family history, while refining my web development skills.
 Digitizing my great-grandfather’s memoirs to preserve family history while sharpening my web development skills.
@@ -29,18 +29,18 @@ Digitizing my great-grandfather’s memoirs to preserve family history while sha
 
 ---
 
-## <img src="./svg/graduation-cap.svg" width="16" height="16" /> **Learning & Growth**
+## <img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/svg/graduation-cap.svg" width="16" height="16" /> **Learning & Growth**
 
 Right now, I’m diving deep into **Astro** and **full-stack web development**. I'm also working on a **digital forensics web app** to enhance my cybersecurity knowledge. Always looking to level up, whether it’s mastering JavaScript or exploring advanced features in frameworks.
 
 ---
 
-## <img src="./svg/handshake.svg" width="16" height="16" /> **Let’s Connect!**
+## <img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/svg/handshake.svg" width="16" height="16" /> **Let’s Connect!**
 
 I’m always up for a conversation, collaboration, or open-source project! Reach out via [finnoybu@gmail.com](mailto:finnoybu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ktannenbaum).
 
 ---
 
-## <img src="./svg/github.svg" width="16" height="16" /> **GitHub Stats**
+## <img src="https://raw.githubusercontent.com/finnoybu/finnoybu/master/svg/github.svg" width="16" height="16" /> **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finnoybu&count_private=true&show_icons=true)
