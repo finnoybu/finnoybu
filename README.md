@@ -26,7 +26,7 @@ The initiative is grounded in a simple principle: *capability without constraint
 
 **[Forensickle](https://github.com/finnoybu/forensickle)** is an investigative tooling initiative exploring how structured digital forensics workflows can begin locally and expand into broader analytical environments. The concept starts with accessible, script-driven data collection and offline review, designed for individual practitioners and small teams.
 
-The longer-term vision is to extend this foundation into a web-based platform where collected artifacts can be uploaded, correlated, and analyzed across systems to provide deeper context and structured comparison while remaining open, transparent, and accessible
+The longer-term vision is to extend this foundation into a web-based platform where collected artifacts can be uploaded, correlated, and analyzed across systems to provide deeper context and structured comparison while remaining open, transparent, and accessible.
 
 ---
 
