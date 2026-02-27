@@ -10,7 +10,7 @@ I am drawn to problems that demand structure, clarity, and long-horizon thinking
 
 ---
 
-## <img src="./svg/terminal.svg" width="16" height="16" /> Currently Building (2026 Focus)
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/terminal.svg" width="16" height="16" /> Currently Building (2026 Focus)
 
 - Canon validation engine for Aegis
 - Governance enforcement prototypes
@@ -19,7 +19,7 @@ I am drawn to problems that demand structure, clarity, and long-horizon thinking
 
 ---
 
-## <img src="./svg/shield.svg" width="16" height="16" /> Support My Work
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/shield.svg" width="16" height="16" /> Support My Work
 
 I develop open frameworks for AI governance, structured systems design, and deterministic engineering workflows.
 
@@ -27,7 +27,7 @@ If this work is valuable to you, consider supporting its continued development: 
 
 ---
 
-## <img src="./svg/compass.svg" width="16" height="16" /> Flagship Initiative
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/compass.svg" width="16" height="16" /> Flagship Initiative
 
 **[Aegis](https://github.com/finnoybu/aegis)** is a long-horizon governance architecture for constrained intelligence, designed to evaluate human intent, clarify consequences, and enforce explicit boundaries before actions are executed.
 
@@ -39,7 +39,7 @@ The initiative is grounded in a simple principle: *capability without constraint
 
 ---
 
-## <img src="./svg/search.svg" width="16" height="16" /> Investigative Systems
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/search.svg" width="16" height="16" /> Investigative Systems
 
 **[Forensickle](https://github.com/finnoybu/forensickle)** is an investigative tooling initiative exploring how structured digital forensics workflows can begin locally and expand into broader analytical environments. The concept starts with accessible, script-driven data collection and offline review, designed for individual practitioners and small teams.
 
@@ -47,7 +47,7 @@ The longer-term vision is to extend this foundation into a web-based platform wh
 
 ---
 
-## <img src="./svg/institution.svg" width="16" height="16" /> Civic & Institutional Systems
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/institution.svg" width="16" height="16" /> Civic & Institutional Systems
 
 **[AmericansForPropriety](https://github.com/finnoybu/americansforpropriety)** is a civic drafting and institutional clarity initiative focused on articulating jurisdictional boundaries, governance norms, and structural accountability in accessible language. The project provides policy context and structured drafting tools designed to support disciplined and informed civic participation.
 
@@ -55,7 +55,7 @@ At its core, the initiative examines how governance frameworks can be expressed 
 
 ---
 
-## <img src="./svg/book.svg" width="16" height="16" /> Narrative & Web Systems
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/book.svg" width="16" height="16" /> Narrative & Web Systems
 
 Beyond governance and investigative tooling, I build structured publishing and web architecture projects that apply systems discipline to content and user experience. This includes **[The Wellings](https://github.com/finnoybu/the-wellings)**, a production-grade children’s book series with defined canon and production governance, as well as long-form archival initiatives such as **[Memoirs](https://github.com/finnoybu/memoirs)**, a digital preservation project documenting my great-grandfather’s experiences as a Norwegian Merchant Marine in the late 19th century.
 
@@ -63,13 +63,13 @@ These projects serve as execution laboratories, exploring how narrative platform
 
 ---
 
-## <img src="./svg/stack.svg" width="16" height="16" /> Core Stack
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/stack.svg" width="16" height="16" /> Core Stack
 
 Python • TypeScript • Static Web Architecture • Systems Design • Workflow & Governance Modeling
 
 ---
 
-## <img src="./svg/link.svg" width="16" height="16" /> Connect
+## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/link.svg" width="16" height="16" /> Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ktannenbaum/)
 - [Personal Website](https://finnoybu.com)  
