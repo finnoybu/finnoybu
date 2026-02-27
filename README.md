@@ -1,5 +1,5 @@
 # Code. Break. Fix. Repeat.
-![Banner image: Ken Tannenbaum - finding bugs is my specialty. i'm pretty good at writing them, too.](https://raw.githubusercontent.com/finnoybu/finnoybu/master/gh-profile-header.png)  
+![Banner image: Ken Tannenbaum - finding bugs is my specialty. i'm pretty good at writing them, too.](https://raw.githubusercontent.com/finnoybu/finnoybu/master/gh-profile-header-2026.png)  
 *Ken Tannenbaum – Senior Staff Quality Assurance Engineer • Systems & Protocol Designer • AI Governance Systems Exploration*
 
 Professionally, I serve as a Senior Staff Quality Assurance Engineer with a growing focus on structured engineering workflows and platform-scale quality architecture. I’m particularly interested in how systems, protocols, and clearly defined boundaries shape resilient software environments.
