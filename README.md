@@ -2,21 +2,38 @@
 ![Banner image: Ken Tannenbaum - finding bugs is my specialty. i'm pretty good at writing them, too.](https://raw.githubusercontent.com/finnoybu/finnoybu/master/gh-profile-header-2026.png)  
 *Ken Tannenbaum – Senior Staff Quality Assurance Engineer • Systems & Protocol Designer • AI Governance Systems Exploration*
 
-Professionally, I serve as a Senior Staff Quality Assurance Engineer with a growing focus on structured engineering workflows and platform-scale quality architecture. I’m particularly interested in how systems, protocols, and clearly defined boundaries shape resilient software environments.
+I am a Senior Staff Quality Assurance Engineer focused on structured engineering workflows, platform-scale quality architecture, and long-horizon systems design. I’m particularly interested in how systems, protocols, and clearly defined boundaries shape resilient software environments.
 
-Beyond my core role, I am actively developing OS-adjacent AI mediation systems, civic drafting frameworks, investigative tooling prototypes, and production-grade publishing systems. These efforts explore how thoughtful governance, constraint, and human-centered design can shape durable systems.
+Beyond my core role, I am actively developing OS-adjacent AI mediation systems, civic drafting frameworks, investigative tooling prototypes, and production-grade publishing systems. These efforts formalize how governance, constraint, and human-centered design shape durable systems.
 
 I am drawn to problems that demand structure, clarity, and long-horizon thinking, and I intentionally pursue work that operates at that scale.
 
 ---
 
+## <img src="./svg/terminal.svg" width="16" height="16" /> Currently Building (2026 Focus)
+
+- Canon validation engine for Aegis
+- Governance enforcement prototypes
+- Deterministic publishing pipelines
+- Structured QA protocol templates
+
+---
+
+## <img src="./svg/shield.svg" width="16" height="16" /> Support My Work
+
+I develop open frameworks for AI governance, structured systems design, and deterministic engineering workflows.
+
+If this work is valuable to you, consider supporting its continued development: https://github.com/sponsors/finnoybu
+
+---
+
 ## <img src="./svg/compass.svg" width="16" height="16" /> Flagship Initiative
 
-**[Aegis](https://github.com/finnoybu/aegis)** represents a long-horizon design initiative exploring an OS-adjacent AI mediation layer that evaluates human intent, clarifies consequences, and enforces explicit boundaries before actions are executed.
+**[Aegis](https://github.com/finnoybu/aegis)** is a long-horizon governance architecture for constrained intelligence, designed to evaluate human intent, clarify consequences, and enforce explicit boundaries before actions are executed.
 
-The project remains an evolving investigation into governance, protocol design, and AI-augmented systems architecture. Supporting this effort, **[Aegis Labs](https://github.com/finnoybu/aegis-labs)** serves as the public-facing research and documentation space, capturing architectural principles and emerging design patterns as they develop.
+Current development focuses on governance validation, protocol design, and AI-augmented systems architecture. Supporting this effort, **[Aegis Labs](https://github.com/finnoybu/aegis-labs)** serves as the public-facing research and documentation space, capturing architectural principles and emerging design patterns as they develop.
 
-At its foundation, Aegis explores whether meaningful human–machine boundary governance can be designed and enforced as a structural property of software systems. Rather than treating safety and mediation as reactive safeguards, the initiative investigates whether authority, constraint, and consequence-awareness can operate as first-class architectural requirements that ensure systems remain accountable to clearly defined boundaries, even when explicitly permitted to act.
+At its foundation, Aegis examines how meaningful human–machine boundary governance can be designed and enforced as a structural property of software systems. Rather than treating safety and mediation as reactive safeguards, the initiative investigates whether authority, constraint, and consequence-awareness can operate as first-class architectural requirements that ensure systems remain accountable to clearly defined boundaries, even when explicitly permitted to act.
 
 The initiative is grounded in a simple principle: *capability without constraint is not intelligence.*
 
@@ -40,9 +57,9 @@ At its core, the initiative examines how governance frameworks can be expressed 
 
 ## <img src="./svg/book.svg" width="16" height="16" /> Narrative & Web Systems
 
-Beyond governance and investigative tooling, I build structured publishing and web architecture projects that apply systems discipline to content and user experience. This includes **[The Wellings](https://github.com/finnoybu/the-wellings)**, a poduction-grade children’s book series with defined canon and production governance, as well as long-form archival initiatives such as **[Memoirs](https://github.com/finnoybu/memoirs)**, a digital preservation project documenting my great-grandfather’s experiences as a Norwegian Merchant Marine in the late 19th century.
+Beyond governance and investigative tooling, I build structured publishing and web architecture projects that apply systems discipline to content and user experience. This includes **[The Wellings](https://github.com/finnoybu/the-wellings)**, a production-grade children’s book series with defined canon and production governance, as well as long-form archival initiatives such as **[Memoirs](https://github.com/finnoybu/memoirs)**, a digital preservation project documenting my great-grandfather’s experiences as a Norwegian Merchant Marine in the late 19th century.
 
-These projects serve as execution laboratoris, exploring how narrative platforms, content workflows, and static web infrastructure can be designed with clarity, consistency, and long-horizon maintainability.
+These projects serve as execution laboratories, exploring how narrative platforms, content workflows, and static web infrastructure can be designed with clarity, consistency, and long-horizon maintainability.
 
 ---
 
