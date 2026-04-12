@@ -1,6 +1,7 @@
 # Code. Break. Fix. Repeat.
 ![Banner image: Ken Tannenbaum - finding bugs is my specialty. i'm pretty good at writing them, too.](https://raw.githubusercontent.com/finnoybu/finnoybu/master/gh-profile-header-2026.png)  
-*Ken Tannenbaum – Senior Staff Quality Assurance Engineer • Systems & Protocol Designer • AI Governance Systems Exploration*
+*Ken Tannenbaum – Founder, AEGIS Initiative*  
+*Senior Staff Quality Assurance Engineer • Systems & Protocol Designer • AI Governance Architect*
 
 I am a Senior Staff Quality Assurance Engineer focused on structured engineering workflows, platform-scale quality architecture, and long-horizon systems design. I’m particularly interested in how systems, protocols, and clearly defined boundaries shape resilient software environments.
 
@@ -12,10 +13,12 @@ I am drawn to problems that demand structure, clarity, and long-horizon thinking
 
 ## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/terminal.svg" width="16" height="16" /> Currently Building (2026 Focus)
 
-- Canon validation engine for Aegis
-- Governance enforcement prototypes
-- Deterministic publishing pipelines
-- Structured QA protocol templates
+- **AEGIS Platform** — hosted SaaS operator dashboard and governance API (live demo at [demo.aegis-platform.net](https://demo.aegis-platform.net))
+- **AIAM-1** — identity and access management protocol for AI agents (RFC-0019)
+- **AGAP-1** — automated governance attestation protocol (RFC-0018)
+- **ATX-1 v2.3** — next taxonomy release incorporating sub-techniques from the Adversarial Operations Center lab
+- **IEEE TNSE paper** — architectural case for federated governance enforcement (resubmitted, under review)
+- **aegis-federation** — cross-domain trust protocol for governed AI networks
 
 ---
 
@@ -29,13 +32,20 @@ If this work is valuable to you, consider supporting its continued development: 
 
 ## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/compass.svg" width="16" height="16" /> Flagship Initiative
 
-**[Aegis](https://github.com/finnoybu/aegis)** is a long-horizon governance architecture for constrained intelligence, designed to evaluate human intent, clarify consequences, and enforce explicit boundaries before actions are executed.
+**AEGIS** is a governance architecture for constrained intelligence. It evaluates human intent, clarifies consequences, and enforces explicit boundaries before AI agents act. The initiative treats authority, constraint, and consequence-awareness as first-class architectural properties rather than reactive safeguards — systems remain accountable to clearly defined boundaries, even when explicitly permitted to act.
 
-Current development focuses on governance validation, protocol design, and AI-augmented systems architecture. Supporting this effort, **[Aegis Labs](https://github.com/finnoybu/aegis-labs)** serves as the public-facing research and documentation space, capturing architectural principles and emerging design patterns as they develop.
+AEGIS spans a twelve-repository ecosystem at **[github.com/aegis-initiative](https://github.com/aegis-initiative)**. **[aegis-labs](https://github.com/aegis-initiative/aegis-labs)** serves as the research sandbox where adversarial testing, novel threat discovery, and governance experiments run against live deployments before promotion to canonical specification.
 
-At its foundation, Aegis examines how meaningful human–machine boundary governance can be designed and enforced as a structural property of software systems. Rather than treating safety and mediation as reactive safeguards, the initiative investigates whether authority, constraint, and consequence-awareness can operate as first-class architectural requirements that ensure systems remain accountable to clearly defined boundaries, even when explicitly permitted to act.
+**Published assets:**
 
-The initiative is grounded in a simple principle: *capability without constraint is not intelligence.*
+- **[aegis-core](https://github.com/aegis-initiative/aegis-core)** — Python reference implementation of the AGP-1 governance runtime. Current release: v0.1.2 (DOI: [10.5281/zenodo.19355478](https://doi.org/10.5281/zenodo.19355478))
+- **ATX-1 Threat Taxonomy** — 10 tactics, 29 sub-techniques covering the AI governance threat surface. Current version: v2.2 (DOI: [10.21227/7c9p-6150](https://doi.org/10.21227/7c9p-6150))
+- **[Governing the Action Boundary](https://doi.org/10.5281/zenodo.19489150)** — 21-page category-definition paper on the architectural case for action-boundary governance (DOI: 10.5281/zenodo.19489150)
+- **[AEGIS Platform](https://aegis-platform.net)** — hosted SaaS product with operator dashboard and governance API, live at [demo.aegis-platform.net](https://demo.aegis-platform.net)
+
+**Public domains:** [aegis-initiative.com](https://aegis-initiative.com) · [aegis-docs.com](https://aegis-docs.com) · [aegis-governance.com](https://aegis-governance.com) · [aegis-constitution.com](https://aegis-constitution.com) · [aegis-federation.com](https://aegis-federation.com)
+
+The initiative is grounded in a simple principle: *capability without constraint is not intelligence.*™
 
 ---
 
