@@ -1,7 +1,7 @@
 # Code. Break. Fix. Repeat.
 ![Banner image: Ken Tannenbaum - finding bugs is my specialty. i'm pretty good at writing them, too.](https://raw.githubusercontent.com/finnoybu/finnoybu/master/gh-profile-header-2026.png)  
-*Ken Tannenbaum – Founder, AEGIS Initiative*  
-*Senior Staff Quality Assurance Engineer • Systems & Protocol Designer • AI Governance Architect*
+*Ken Tannenbaum – Founder, AEGIS Initiative* | 
+*Senior Staff QA Engineer • Systems & Protocol Designer • AI Governance Architect*
 
 I am a Senior Staff Quality Assurance Engineer focused on structured engineering workflows, platform-scale quality architecture, and long-horizon systems design. I’m particularly interested in how systems, protocols, and clearly defined boundaries shape resilient software environments.
 
@@ -13,12 +13,12 @@ I am drawn to problems that demand structure, clarity, and long-horizon thinking
 
 ## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/terminal.svg" width="16" height="16" /> Currently Building (2026 Focus)
 
-- **AEGIS Platform** — hosted SaaS operator dashboard and governance API (live demo at [demo.aegis-platform.net](https://demo.aegis-platform.net))
-- **AIAM-1** — identity and access management protocol for AI agents (RFC-0019)
-- **AGAP-1** — automated governance attestation protocol (RFC-0018)
+- **AEGIS Platform** — hosted SaaS operator dashboard and governance API (beta demo at [demo.aegis-platform.net](https://demo.aegis-platform.net))
+- **AIAM-1** — identity and access management protocol for AI agents ([RFC-0019](https://github.com/aegis-initiative/aegis-governance/blob/main/rfc/RFC-0019-AIAM-1-Identity-Access-Management-AI-Agents.md))
+- **AGAP-1** — automated governance attestation protocol ([RFC-0018](https://github.com/aegis-initiative/aegis-governance/blob/main/rfc/RFC-0018-Automated-Governance-Attestation-Protocol.md))
 - **ATX-1 v2.3** — next taxonomy release incorporating sub-techniques from the Adversarial Operations Center lab
-- **IEEE TNSE paper** — architectural case for federated governance enforcement (resubmitted, under review)
-- **aegis-federation** — cross-domain trust protocol for governed AI networks
+- **IEEE TNSE paper** — architectural case for [federated governance enforcement](https://github.com/aegis-initiative/aegis-governance/blob/main/docs/position-papers/ieee-tnse-2026/AEGIS-TNSE-Edge-Governance-2026.pdf) ([resubmitted](https://github.com/aegis-initiative/aegis-governance/blob/main/docs/position-papers/ieee-tnse-2026/cover-letter-resubmission-2026-04-09.pdf), under review)
+- **AEGIS Governance Federation Network** — cross-domain trust protocol for [governed AI networks](https://aegis-federation.com/)
 
 ---
 
