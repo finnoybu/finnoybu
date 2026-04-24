@@ -14,10 +14,12 @@ I am drawn to problems that demand structure, clarity, and long-horizon thinking
 ## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/terminal.svg" width="16" height="16" /> Currently Building (2026 Focus)
 
 - **AEGIS Platform** — hosted SaaS operator dashboard and governance API (beta demo at [demo.aegis-platform.net](https://demo.aegis-platform.net))
-- **AIAM-1** — identity and access management protocol for AI agents ([RFC-0019](https://github.com/aegis-initiative/aegis-governance/blob/main/rfc/RFC-0019-AIAM-1-Identity-Access-Management-AI-Agents.md))
+- **AIAM-1** — identity and access management protocol for AI agents; v0.1 spec complete, pending Zenodo deposit ([RFC-0019](https://github.com/aegis-initiative/aegis-governance/blob/main/rfc/RFC-0019-AIAM-1-Identity-Access-Management-AI-Agents.md))
 - **AGAP-1** — automated governance attestation protocol ([RFC-0018](https://github.com/aegis-initiative/aegis-governance/blob/main/rfc/RFC-0018-Automated-Governance-Attestation-Protocol.md))
 - **ATX-1 v2.3** — next taxonomy release incorporating sub-techniques from the Adversarial Operations Center lab
-- **IEEE TNSE paper** — architectural case for [federated governance enforcement](https://github.com/aegis-initiative/aegis-governance/blob/main/docs/position-papers/ieee-tnse-2026/AEGIS-TNSE-Edge-Governance-2026.pdf) ([resubmitted](https://github.com/aegis-initiative/aegis-governance/blob/main/docs/position-papers/ieee-tnse-2026/cover-letter-resubmission-2026-04-09.pdf), under review)
+- **Round 1 Adversarial Evaluation** — ten-hour multi-agent offensive exercise comparing AEGIS-governed and ungoverned conditions; AGP-1's primary empirical artifact ([findings](https://github.com/aegis-initiative/aegis-labs/blob/main/experiments/2026-04-edge-evaluation/findings.md))
+- **IEEE TNSE paper** — architectural case for [federated governance enforcement](https://github.com/aegis-initiative/aegis-governance/blob/main/docs/position-papers/ieee-tnse-2026/AEGIS-TNSE-Edge-Governance-2026.pdf) (desk-rejected on scope; [appeal](https://github.com/aegis-initiative/aegis-governance/blob/main/docs/position-papers/ieee-tnse-2026/cover-letter-resubmission-2026-04-09.pdf) sent to SI guest editors 2026-04-10)
+- **IEEE Data Descriptions** — ATX-1 data descriptor paper (DATA-00033-2026) returned with major revisions; resubmission due 2026-05-20
 - **AEGIS Governance Federation Network** — cross-domain trust protocol for [governed AI networks](https://aegis-federation.com/)
 
 ---
@@ -67,7 +69,7 @@ At its core, the initiative examines how governance frameworks can be expressed 
 
 ## <img src="https://github.com/finnoybu/finnoybu/raw/main/svg/book.svg" width="16" height="16" /> Narrative & Web Systems
 
-Beyond governance and investigative tooling, I build structured publishing and web architecture projects that apply systems discipline to content and user experience. This includes **[The Wellings](https://github.com/finnoybu/the-wellings)**, a production-grade children’s book series with defined canon and production governance, as well as long-form archival initiatives such as **[Memoirs](https://github.com/finnoybu/memoirs)**, a digital preservation project documenting my great-grandfather’s experiences as a Norwegian Merchant Marine in the late 19th century.
+Beyond governance and investigative tooling, I build structured publishing and web architecture projects that apply systems discipline to content and user experience. This includes **[Finnoybu Press](https://press.finnoybu.com)**, a practical-AI imprint publishing a seventeen-book catalog of workflow, engineering, and governance guides, and the **[Finnoybu Fiction](https://fiction.finnoybu.com)** trilogy, a long-form literary project developed under the same production discipline. Long-form archival work continues through **[Reminiscences](https://memoirs.finnoybu.com)**, a digital preservation project documenting my great-grandfather’s experiences as a Norwegian Merchant Marine in the late 19th century.
 
 These projects serve as execution laboratories, exploring how narrative platforms, content workflows, and static web infrastructure can be designed with clarity, consistency, and long-horizon maintainability.
 
